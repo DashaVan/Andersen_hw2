@@ -1,4 +1,4 @@
-package spacekotlin.vaniukova.hellotoast
+package spacekotlin.vaniukova.helloconstraint
 
 import org.junit.Test
 

@@ -7,7 +7,7 @@ android {
     compileSdk 30
 
     defaultConfig {
-        applicationId "spacekotlin.vaniukova.hellotoast"
+        applicationId "spacekotlin.vaniukova.helloconstraint"
         minSdk 23
         targetSdk 30
         versionCode 1
