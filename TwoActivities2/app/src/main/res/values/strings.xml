@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Two Activities</string>
+    <string name="send">Send</string>
+    <string name="text_header">Сообщение</string>
+    <string name="editText_main">Введите свое сообщение</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Введите ответ</string>
+    <string name="text_header_reply">Ответ</string>
+</resources>
